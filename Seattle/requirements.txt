@@ -1,0 +1,7 @@
+sodapy
+numpy
+pandas
+matplotlib
+itertools
+datetime
+math

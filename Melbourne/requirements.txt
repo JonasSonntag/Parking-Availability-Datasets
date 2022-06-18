@@ -1,0 +1,9 @@
+geopandas
+seaborn
+folium
+osmnx
+sodapy
+xmltodict
+pyprobar
+s3fs
+pandas==1.1.5
